@@ -1,0 +1,50 @@
+[
+  {
+    "FirstName": "Xamidullo",
+    "LastName": "Xudaykulov",
+    "Email": "xudaykulov123@gmail.com",
+    "Password": "HMDL2003",
+    "Phone": "+998900320802",
+    "Id": 0,
+    "CreatedAt": "2024-01-28T00:56:12.5929748Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": true
+  },
+  {
+    "FirstName": "Bobur",
+    "LastName": "Yusufjonov",
+    "Email": "yunusjanovich00@gmail.com",
+    "Password": "BOBUR1",
+    "Phone": "+998959881908",
+    "Id": 1,
+    "CreatedAt": "2024-01-29T14:12:32.5612723Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "FirstName": "Xamidullo",
+    "LastName": "Xudaykulov",
+    "Email": "xudaykulov123@gmail.com",
+    "Password": "HMDL2003",
+    "Phone": "+998900320802",
+    "Id": 2,
+    "CreatedAt": "2024-01-30T13:57:07.2459092Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "FirstName": "Asrorbek",
+    "LastName": "Abrorov",
+    "Email": "Asrorbek123",
+    "Password": "Asror1",
+    "Phone": "+998988888888",
+    "Id": 3,
+    "CreatedAt": "2024-01-30T13:57:28.4301665Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  }
+]

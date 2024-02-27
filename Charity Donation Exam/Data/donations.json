@@ -1,0 +1,116 @@
+[
+  {
+    "DonationType": {
+      "Name": "Mehribon",
+      "Description": "Qariyalar uchun",
+      "CardNumber": "8600 1256 5446 8974",
+      "TotalAmount": 0,
+      "Id": 1,
+      "CreatedAt": "2024-01-28T08:20:23.7555329Z",
+      "UpdatedAt": "0001-01-01T00:00:00",
+      "DeletedAt": "0001-01-01T00:00:00",
+      "IsDeleted": false
+    },
+    "User": null,
+    "Id": 0,
+    "CreatedAt": "2024-01-28T08:20:25.5678945Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "DonationType": {
+      "Name": "Mehribon",
+      "Description": "Qariyalar uchun",
+      "CardNumber": "8600 1256 5446 8974",
+      "TotalAmount": 1200,
+      "Id": 1,
+      "CreatedAt": "2024-01-28T08:22:44.7522029Z",
+      "UpdatedAt": "0001-01-01T00:00:00",
+      "DeletedAt": "0001-01-01T00:00:00",
+      "IsDeleted": false
+    },
+    "User": null,
+    "Id": 1,
+    "CreatedAt": "2024-01-28T08:22:47.2378872Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "DonationType": {
+      "Name": "Mehribon",
+      "Description": "Qariyalar uchun",
+      "CardNumber": "8600 1256 5446 8974",
+      "TotalAmount": 0,
+      "Id": 1,
+      "CreatedAt": "2024-01-29T14:13:13.1498978Z",
+      "UpdatedAt": "0001-01-01T00:00:00",
+      "DeletedAt": "0001-01-01T00:00:00",
+      "IsDeleted": false
+    },
+    "User": null,
+    "Id": 2,
+    "CreatedAt": "2024-01-29T14:13:14.9251556Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "DonationType": {
+      "Name": "Mehribon",
+      "Description": "Qariyalar uchun",
+      "CardNumber": "8600 1256 5446 8974",
+      "TotalAmount": 5000,
+      "Id": 1,
+      "CreatedAt": "2024-01-29T14:13:23.3228676Z",
+      "UpdatedAt": "0001-01-01T00:00:00",
+      "DeletedAt": "0001-01-01T00:00:00",
+      "IsDeleted": false
+    },
+    "User": null,
+    "Id": 3,
+    "CreatedAt": "2024-01-29T14:13:24.8152696Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "DonationType": {
+      "Name": "Mehribon",
+      "Description": "Qariyalar uchun",
+      "CardNumber": "8600 1256 5446 8974",
+      "TotalAmount": 17000,
+      "Id": 1,
+      "CreatedAt": "2024-01-29T14:15:39.7032196Z",
+      "UpdatedAt": "0001-01-01T00:00:00",
+      "DeletedAt": "0001-01-01T00:00:00",
+      "IsDeleted": false
+    },
+    "User": null,
+    "Id": 4,
+    "CreatedAt": "2024-01-29T14:15:49.324637Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "DonationType": {
+      "Name": "Mehribon",
+      "Description": "Qariyalar uchun",
+      "CardNumber": "8600 1256 5446 8974",
+      "TotalAmount": 29000,
+      "Id": 1,
+      "CreatedAt": "2024-01-30T13:58:01.6839605Z",
+      "UpdatedAt": "0001-01-01T00:00:00",
+      "DeletedAt": "0001-01-01T00:00:00",
+      "IsDeleted": false
+    },
+    "User": null,
+    "Id": 5,
+    "CreatedAt": "2024-01-30T13:58:17.637958Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  }
+]

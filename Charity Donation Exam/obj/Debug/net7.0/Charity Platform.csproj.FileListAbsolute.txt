@@ -1,0 +1,17 @@
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\bin\Debug\net7.0\Charity Platform.exe
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\bin\Debug\net7.0\Charity Platform.deps.json
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\bin\Debug\net7.0\Charity Platform.runtimeconfig.json
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\bin\Debug\net7.0\Charity Platform.dll
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\bin\Debug\net7.0\Charity Platform.pdb
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Platform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Platform.AssemblyInfoInputs.cache
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Platform.AssemblyInfo.cs
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Platform.csproj.CoreCompileInputs.cache
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Platform.dll
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\refint\Charity Platform.dll
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Platform.pdb
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Platform.genruntimeconfig.cache
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\ref\Charity Platform.dll
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Platform.csproj.AssemblyReference.cache
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Platform.csproj.CopyComplete

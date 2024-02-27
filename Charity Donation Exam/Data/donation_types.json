@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "Saxovat",
+    "Description": "Bolalar uchun",
+    "CardNumber": "9860 1001 2520 5995",
+    "TotalAmount": 0,
+    "Id": 0,
+    "CreatedAt": "2024-01-28T08:02:22.4285901Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "Name": "Mehribon",
+    "Description": "Qariyalar uchun",
+    "CardNumber": "8600 1256 5446 8974",
+    "TotalAmount": 41000,
+    "Id": 1,
+    "CreatedAt": "2024-01-28T08:03:19.3586214Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  }
+]

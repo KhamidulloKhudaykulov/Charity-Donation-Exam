@@ -1,0 +1,18 @@
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\bin\Debug\net7.0\Charity Donation Exam.exe
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\bin\Debug\net7.0\Charity Donation Exam.deps.json
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\bin\Debug\net7.0\Charity Donation Exam.runtimeconfig.json
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\bin\Debug\net7.0\Charity Donation Exam.dll
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\bin\Debug\net7.0\Charity Donation Exam.pdb
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Donation Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Donation Exam.AssemblyInfoInputs.cache
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Donation Exam.AssemblyInfo.cs
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Donation Exam.csproj.CoreCompileInputs.cache
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Donation Exam.dll
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\refint\Charity Donation Exam.dll
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Donation Exam.pdb
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Donation Exam.genruntimeconfig.cache
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\ref\Charity Donation Exam.dll
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Donation Exam.csproj.AssemblyReference.cache
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\obj\Debug\net7.0\Charity Donation Exam.csproj.CopyComplete
+C:\Users\Xamidullo\source\repos\Charity Donation Exam\Charity Donation Exam\bin\Debug\net7.0\Spectre.Console.dll
